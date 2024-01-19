@@ -1,5 +1,7 @@
 # SES Bounce Handling
 
+![Infrastructure diagram](./images/infrastructure-diagram.png)
+
 ## Getting started
 
 1. Install dependencies
