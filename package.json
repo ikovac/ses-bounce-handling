@@ -1,0 +1,14 @@
+{
+  "name": "ses-bounce-handling",
+  "main": "index.ts",
+  "prettier": "@studion/prettier-config",
+  "devDependencies": {
+    "@studion/prettier-config": "^0.1.0",
+    "@types/node": "^18"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^6.0.0",
+    "@pulumi/awsx": "^2.0.2",
+    "@pulumi/pulumi": "^3.0.0"
+  }
+}
